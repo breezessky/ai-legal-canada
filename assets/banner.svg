@@ -1,0 +1,85 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1B2A4A"/>
+      <stop offset="100%" stop-color="#243660"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#C9972C" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#C9972C"/>
+      <stop offset="80%"  stop-color="#C9972C"/>
+      <stop offset="100%" stop-color="#C9972C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#navyGrad)" rx="10"/>
+
+  <!-- Gold accent line top -->
+  <rect x="0" y="6" width="900" height="3" fill="url(#goldLine)" rx="1"/>
+
+  <!-- Canada maple leaf (simplified) at left -->
+  <text x="52" y="115" font-size="64" text-anchor="middle" fill="#D42B2B" font-family="serif">🍁</text>
+
+  <!-- Main title -->
+  <text x="110" y="80" font-family="Georgia, serif" font-size="36" font-weight="bold" fill="#FFFFFF">
+    AI Legal Assistant
+  </text>
+
+  <!-- Subtitle — Canadian Edition badge -->
+  <rect x="108" y="92" width="200" height="26" rx="5" fill="#C9972C"/>
+  <text x="208" y="110" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold"
+        fill="#1B2A4A" text-anchor="middle">🍁 CANADIAN EDITION</text>
+
+  <!-- Description line -->
+  <text x="110" y="148" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#A8B8D0">
+    Contract review · Risk analysis · Privacy compliance · CASL · Law 25 · PDF reports
+  </text>
+
+  <!-- Stats row -->
+  <text x="110" y="176" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#C9972C">
+    14 Skills  ·  5 Agents  ·  Built for Canadian Law  ·  Claude Code
+  </text>
+
+  <!-- Right side — framework pills -->
+  <g transform="translate(630, 40)">
+    <!-- PIPEDA -->
+    <rect x="0" y="0" width="80" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="40" y="14" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">PIPEDA</text>
+
+    <!-- CASL -->
+    <rect x="88" y="0" width="60" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="118" y="14" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">CASL</text>
+
+    <!-- Law 25 -->
+    <rect x="0" y="28" width="80" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="40" y="42" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">Law 25 (QC)</text>
+
+    <!-- PIPA -->
+    <rect x="88" y="28" width="60" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="118" y="42" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">PIPA</text>
+
+    <!-- AODA -->
+    <rect x="0" y="56" width="80" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="40" y="70" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">AODA</text>
+
+    <!-- ESA -->
+    <rect x="88" y="56" width="60" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="118" y="70" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">ESA</text>
+
+    <!-- CLC -->
+    <rect x="0" y="84" width="80" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="40" y="98" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">Canada Labour</text>
+
+    <!-- Competition -->
+    <rect x="88" y="84" width="60" height="20" rx="10" fill="#1E3A5F"/>
+    <text x="118" y="98" font-family="Helvetica" font-size="10" fill="#7FBBE8" text-anchor="middle">Comp. Act</text>
+
+    <!-- CPA -->
+    <rect x="44" y="112" width="72" height="20" rx="10" fill="#C9972C" opacity="0.8"/>
+    <text x="80" y="126" font-family="Helvetica" font-size="10" font-weight="bold" fill="#1B2A4A" text-anchor="middle">Consumer Prot.</text>
+  </g>
+
+  <!-- Gold accent line bottom -->
+  <rect x="0" y="191" width="900" height="3" fill="url(#goldLine)" rx="1"/>
+</svg>
