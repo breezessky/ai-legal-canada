@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/breezessky/ai-legal-canada?style=flat-square)](https://github.com/breezessky/ai-legal-canada/stargazers)
 [![GitHub license](https://img.shields.io/github/license/breezessky/ai-legal-canada?style=flat-square)](https://github.com/breezessky/ai-legal-canada/blob/main/LICENSE)
-[![Skills](https://img.shields.io/badge/skills-13-blue?style=flat-square)](https://github.com/breezessky/ai-legal-canada/tree/main/skills)
+[![Skills](https://img.shields.io/badge/skills-14-blue?style=flat-square)](https://github.com/breezessky/ai-legal-canada/tree/main/skills)
 [![Canadian Law](https://img.shields.io/badge/jurisdiction-Canada-red?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjEyIiBmaWxsPSIjZmZmIi8+PHJlY3Qgd2lkdGg9IjUiIGhlaWdodD0iMTIiIGZpbGw9IiNlZjM5MzkiLz48cmVjdCB4PSIxNSIgd2lkdGg9IjUiIGhlaWdodD0iMTIiIGZpbGw9IiNlZjM5MzkiLz48L3N2Zz4=)](https://github.com/breezessky/ai-legal-canada)
 
 **AI-powered contract review and legal document generation — built for Canadian law.**  
@@ -48,7 +48,7 @@ A US-trained legal AI tool can miss all of these. This tool is built from the gr
 ## ⚡ Quick Start
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/ai-legal-canada/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/breezessky/ai-legal-canada/main/install.sh | bash
 ```
 
 One command installs all 14 skills, 5 agents, and the PDF generation script.
@@ -219,7 +219,7 @@ ai-legal-canada/
 ## 🔧 Uninstall
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/ai-legal-canada/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/breezessky/ai-legal-canada/main/uninstall.sh | bash
 ```
 
 Or run locally:
