@@ -34,7 +34,7 @@ echo ""
 # ---------------------------------------------------------------------------
 # Detect script directory (handle both local and curl | bash)
 # ---------------------------------------------------------------------------
-GITHUB_REPO="jonlin/ai-legal-canada"
+GITHUB_REPO="breezessky/ai-legal-canada"
 TEMP_DIR=""
 
 if [ -n "${BASH_SOURCE[0]}" ] && [ "${BASH_SOURCE[0]}" != "bash" ]; then
