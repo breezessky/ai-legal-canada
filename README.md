@@ -1,5 +1,10 @@
 ![AI Legal Assistant — Canadian Edition](assets/banner.svg)
 
+[![GitHub stars](https://img.shields.io/github/stars/breezessky/ai-legal-canada?style=flat-square)](https://github.com/breezessky/ai-legal-canada/stargazers)
+[![GitHub license](https://img.shields.io/github/license/breezessky/ai-legal-canada?style=flat-square)](https://github.com/breezessky/ai-legal-canada/blob/main/LICENSE)
+[![Skills](https://img.shields.io/badge/skills-13-blue?style=flat-square)](https://github.com/breezessky/ai-legal-canada/tree/main/skills)
+[![Canadian Law](https://img.shields.io/badge/jurisdiction-Canada-red?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAxMiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjEyIiBmaWxsPSIjZmZmIi8+PHJlY3Qgd2lkdGg9IjUiIGhlaWdodD0iMTIiIGZpbGw9IiNlZjM5MzkiLz48cmVjdCB4PSIxNSIgd2lkdGg9IjUiIGhlaWdodD0iMTIiIGZpbGw9IiNlZjM5MzkiLz48L3N2Zz4=)](https://github.com/breezessky/ai-legal-canada)
+
 **AI-powered contract review and legal document generation — built for Canadian law.**  
 Review contracts, flag risks, generate NDAs, audit PIPEDA/CASL/Law 25 compliance, check employment standards, and produce client-ready PDF reports — all from Claude Code.
 
